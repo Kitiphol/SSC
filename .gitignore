@@ -41,8 +41,8 @@ build/
 
 target/
 
-.^C
-.^C.pub
+^C
+^C.pub
 key2
 key2.pub
 
