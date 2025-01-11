@@ -39,5 +39,10 @@ build/
 
 /.env
 
-target
+target/
+
+.^C
+.^C.pub
+key2
+key2.pub
 
